@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kotlin Practice</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="reCalculate">Recalcular</string>
+    <string name="result">Resultado</string>
+    <string name="error">Error</string>
+
+    <string name="title_low_weight">Bajo peso</string>
+    <string name="description_low_weight">Estás por debajo de lo optimo :v</string>
+    <string name="title_normal_weight">Peso normal</string>
+    <string name="description_normal_weight">Tas chido</string>
+    <string name="title_over_weight">Tas un poco gordo</string>
+    <string name="description_over_weight">Haz ejercicio ewe :v</string>
+    <string name="title_obesity_weight">Tas cerdo</string>
+    <string name="description_obesity_weight">Ya te pasaste de berga mijo :v</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".firstapp.ResultActivity">
+    <TextView
+        android:id="@+id/resultText"
+        android:text="Ejemplo"
+        android:textColor="@color/teal_200"
+        android:textFontWeight="@integer/material_motion_duration_short_1"
+        android:textSize="24dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"></TextView>
+
+</FrameLayout>
